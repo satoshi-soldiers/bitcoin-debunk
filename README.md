@@ -1,2 +1,2 @@
 # bitcoin-debunk
-Debunk hollowness arguments against Bitcoin
+Debunk hollowness arguments against Bitcoin.
