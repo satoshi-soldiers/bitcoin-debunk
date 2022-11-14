@@ -1,8 +1,27 @@
 # Introduction
 
+La grande majorité des arguments courammment employés contre Bitcoin sont liés au fait que Bitcoin est un concept compliqué à comprendre. Prenons un peu de temps pour étudier ces arguments un par un.
+
 # 1) Bitcoin est INUTILE
 
 ### 1.1) Bitcoin est une pyramide de ponzi
+
+L'erreur de l'argument "Bitcoin = ponzi" se trouve dans l'incompréhension de ce qui fait ou non une pyramide de ponzi, et dans le fait de se focaliser sur ce que certains font avec la technologie Bitcoin, plutôt que sur la technologie elle-même. 
+
+Le prix d'une unité de Bitcoin est monté assez dramatiquement suite à sa création, ce qui a alimenté une génération de spéculateurs intéressés par le fait d'acheter du Bitcoin et le revendre à un prix plus élevé. Vu vous la perspective des gains et des pertes financières de certains investisseurs, Bitcoin apparaît initialement comme une pyramide de ponzi, un simple jeu avec des gagnants et des perdants.
+
+Mais la plupart de ceux qui ont passé plus de quelques heures à étudier sérieusement Bitcoin voient clairement que ce n'est pas une pyramide de ponzi. Une pyramide de ponzi est un système :
+
+- Activement contrôlé centralement par une personne ou une entreprise.
+- Où les participants entrent dans le système attendant un retour sur leur investissement, et où ce retour sur investissement est payé par les participants qui arrivent après eux, et ainsi de suite. 
+- Mais surtout, dans un tel système, lorsque l'on arrive à un moment où il devient impossible d'attirer de nouveaux participants, alors le système entier s'effondre avant de disparaître.
+
+Dans le cas de Bitcoin, au contraire :
+
+- Bitcoin n'est contrôlé par aucune personne, entreprise, ou groupe de personnes.
+- Bitcoin ne promet aucun retour sur investissement. D'ailleurs, Bitcoin en soi n'est pas un investissement, et sa fonction n'est pas que sa monnaie monte en termes de prix. C'est une technologie, un protocole et une infrastructure ouverte avec une fonction principale : pouvoir faire un échange de valeur entre A et B sans passer par un intermédiaire. Le fait que certains gagnent ou perdent de l'argent en achetant et en revendant des unités de Bitcoin n'a pas grand chose à voir avec sa fonction principale.
+- Aucun problème systémique ne se produit si le nombre de participants cesse de croître, parce que l'utilité fondamentale du système n'est pas de générer un rendement. Au contraire, sa fonction principale (décrite ci-dessus) continue à être remplie même lorsque le nombre de participants diminue.
+
 
 ### 1.2) Bitcoin est purement un outil spéculatif
 
@@ -24,7 +43,7 @@
 
 ### 2.1) Bitcoin est injuste
 
-### 2.2) Bitcoin consomme trop d’énergie
+### 2.2) Bitcoin controp d’énergie
 
 ### 2.3) Bitcoin facilite les activités criminelles
 
