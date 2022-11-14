@@ -35,7 +35,15 @@ Dans le cas de Bitcoin, au contraire :
 
 ### 1.7) 21 Millions d’unités ne sont pas suffisantes pour l’humanité
 
-### 1.8) Le Prix du Bitcoin est trop volatile
+### 1.8) Le Prix du Bitcoin est trop volatile pour être une monnaie
+
+Contrairement aux monnaies fiduciaires, le système Bitcoin ne fait aucune promesse sur la stabilité de la valeur monétaire de son jeton face à d'autres marchés.
+
+En 13 ans d'existence, le prix d'une unité de Bitcoin est passé de $0 (aucun prix de marché) à un prix d'environ $20 000. L'argument de la volatilité trop forte de Bitcoin à cet instant présent revient donc à penser qu'il était possible que le prix d'un Bitcoin passe de 0 à $20 000 sans passer par des périodes de forte volatilité, ce qui aurait probablement été irréaliste.
+
+Mais surtout, l'erreur de cet argument tient dans le fait de considérer que la volatilité (mesurée à un instant T) du prix d'un Bitcoin est une caractéristique intrinsèque du système. En réalité, la volatilité du prix de Bitcoin est une caractéristique extrinsèque, qui dépend à la fois de la taille de son marché, et de multiples facteurs liés aux autres marchés par rapport auxquels on la mesure. 
+
+Il semble très clair que le niveau de volatilité du prix du Bitcoin continuera à évoluer en tandem avec la taille de son marché. Par exemple, si la capitalisation totale de Bitcoin venait à augmenter d'un facteur de 10, il est tout à fait raisonnable de penser que la volatilité de son prix serait divisée du même ordre de grandeur. Il est donc important de comprendre que cet argument est purement circonstantiel, et qu'il n'y a pas de raison particulière de penser que le niveau de volatilité du prix de Bitcoin ne sera pas du même ordre de grandeur que celui du prix de l'or ou des monnaies fiduciaires dans le futur.
 
 ### 1.9) Bitcoin ne “produit” rien, donc il ne sert à rien
 
