@@ -35,6 +35,8 @@ Dans le cas de Bitcoin, au contraire :
 
 ### 1.7) 21 Millions d’unités ne sont pas suffisantes pour l’humanité
 
+Cet argument vient d'un manque de compréhension du système. L'unité de base dans le protocole Bitcoin n'est pas le BTC, mais le satoshi. Ce qu'on appelle "un Bitcoin" est une super-unité qui représente en fait 100 millions (100 000 000) de satoshis. D'ici à 2140, le nombre d'unités de satoshis en circulation continuera à augmenter (via les récompenses de minage) jusqu'à atteindre 20 999 999.9796 BTC. Le nombre total de satoshis en circulation sera à ce moment-là de 2.099 quadrillions (2 099 999 997 960 000) de satoshis, ce qui semble être un nombre d'unités amplement suffisant pour représenter une unité de compte au niveau mondial. Et si cela n'est pas suffisant dans le futur, le protocole Bitcoin peut toujours être mis à jour pour implémenter un niveau de divisibilité plus élevé. 
+
 ### 1.8) Le Prix du Bitcoin est trop volatile pour être une monnaie
 
 Contrairement aux monnaies fiduciaires, le système Bitcoin ne fait aucune promesse sur la stabilité de la valeur monétaire de son jeton face à d'autres marchés.
