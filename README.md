@@ -29,13 +29,21 @@ Dans le cas de Bitcoin, au contraire :
 
 ### 1.4) La valeur d’un Bitcoin ne repose sur rien
 
-### 1.5) Le système Bitcoin peut être dupliqué à l’infini
+### 1.5) Bitcoin peut être dupliqué à l’infini
+
+Le logiciel Bitcoin peut effectivement être copié, modifié et reproduit à l'infini. Mais Bitcoin est plus qu'un simple logiciel. C'est un réseau de plusieurs dizaines de milliers d'ordinateurs qui font tourner la même version du logiciel. Imaginons que quelqu'un créé une copie de Bitcoin en changeant les règles du protocole, l’appelle "Bitcoin 2.0", et le fasse tourner sur son propre ordinateur. Cette personne ne peut pas forcer le reste du réseau à faire tourner Bitcoin 2.0. En conséquence, il/elle a bien copié et modifié le code de Bitcoin, et il peut générer des unités de Bitcoin sur son propre réseau, mais ses Bitcoins ne seront pas acceptés par le reste du réseau.
+
+C'est pour cela qu'il existe des dizaines de versions modifiées de Bitcoin, mais le nombre d'ordinateurs qui font tourner ces versions est dérisoire par rapport au nombre d'ordinateurs qui font tourner le logiciel original.
+
+On ne peut donc pas dupliquer Bitcoin à l'infini, car on ne peut pas dupliquer son réseau.
 
 ### 1.6) Personne n’utilise Bitcoin comme une monnaie
 
 ### 1.7) 21 Millions d’unités ne sont pas suffisantes pour l’humanité
 
-Cet argument vient d'un manque de compréhension du système. L'unité de base dans le protocole Bitcoin n'est pas le BTC, mais le satoshi. Ce qu'on appelle "un Bitcoin" est une super-unité qui représente en fait 100 millions (100 000 000) de satoshis. D'ici à 2140, le nombre d'unités de satoshis en circulation continuera à augmenter (via les récompenses de minage) jusqu'à atteindre 20 999 999.9796 BTC. Le nombre total de satoshis en circulation sera à ce moment-là de 2.099 quadrillions (2 099 999 997 960 000) de satoshis, ce qui semble être un nombre d'unités amplement suffisant pour représenter une unité de compte au niveau mondial. Et si cela n'est pas suffisant dans le futur, le protocole Bitcoin peut toujours être mis à jour pour implémenter un niveau de divisibilité plus élevé. 
+Cet argument vient d'un manque de compréhension du système. L'unité de base dans le protocole Bitcoin n'est pas le BTC, mais le satoshi. Ce qu'on appelle "un Bitcoin" est une super-unité qui représente en fait 100 millions (100 000 000) de satoshis. 
+
+D'ici à 2140, le nombre d'unités de satoshis en circulation continuera à augmenter (via les récompenses de minage) jusqu'à atteindre 20 999 999.9796 BTC. Le nombre total de satoshis en circulation sera à ce moment-là de 2.099 quadrillions (2 099 999 997 960 000) de satoshis, ce qui semble être un nombre d'unités amplement suffisant pour représenter une unité de compte au niveau mondial. Et si cela n'est pas suffisant dans le futur, le protocole Bitcoin peut toujours être mis à jour pour implémenter un niveau de divisibilité plus élevé. 
 
 ### 1.8) Le Prix du Bitcoin est trop volatile pour être une monnaie
 
