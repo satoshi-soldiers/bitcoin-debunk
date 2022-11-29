@@ -75,6 +75,12 @@ Il semble très clair que le niveau de volatilité du prix du Bitcoin continuera
 
 ### 3.1) Le temps de finalité des transactions est trop lent
 
+La notion de "temps de finalité" est plus compliquée qu'elle n'en a l'air. Par exemple, dans le système bancaire, on peut faire des virements instantanés, mais ces virements peuvent être ensuite annulés par le partenaire bancaire, parfois plusieurs semaines plus tard. Ce qui semble être un temps de finalité instantané est en fait un temps de finalité réel de plusieurs semaines. Par ailleurs, certains autres projets de cryptomonnaies promettent des temps de finalité bien plus courts que Bitcoin, mais elles le font systématiquement au prix d'un système beaucoup moins décentralisé que Bitcoin, c'est-à-dire un système moins apte à garantir un niveau crédible de neutralité.
+
+Le problème que résout Bitcoin n'est pas de pouvoir faire des transactions rapides ou d'avoir un temps de finalité instantané; c'est de pouvoir faire des transactions incensurables, quasiment immuables, et sans tiers de confiance ni risque de contrepartie. Pour pouvoir remplir cette fonction, Bitcoin utilise une blockchain distribuée sécurisée par la preuve de travail, dans lequel la notion de "temps de finalité" n'existe pas réellement. Notre transaction n'est jamais techniquement finale, mais la probabilité qu'elle soit ré-écrite ou annulée par une entité malhonnête qui utiliserait sa puissance de calcul pour attaquer le réseau diminue de façon exponentielle à chaque nouveau block produit par le réseau (lorsque suffisamment de blocks ont été produits à la suite du block contenant notre transaction, on peut décider de considérer la transaction comme "finale" car on estime que le coût pour modifier ces blocks est trop élevé).
+
+Pour conclure, il est vrai que les transactions effectuées directement sur la blockchain Bitcoin ne sont pas adaptées à une utilisation nécessitant des paiements instantanés (par exemple, payer pour un café avec une transaction Bitcoin). Par contre, le réseau Lightning, un système ouvert de canaux de paiements qui se construit en ce moment par-dessus Bitcoin, pourrait permettre de remplir cette fonction, en permettant l'envoi d'un nombre illimité de transactions, quasi-instantanées et quasi-gratuites entre ses utilisateurs.
+
 ### 3.2) Le débit de transactions est trop faible pour une utilisation par le monde entier
 
 ### 3.3) D’autres cryptos font mieux que Bitcoin en consommant moins d’énergie
